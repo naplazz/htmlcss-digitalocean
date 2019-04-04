@@ -6,4 +6,33 @@
   padding: 100px 50px;
   color: white;
 }
-TEST
+#login-form {
+  background-color: white;
+  padding: 25px;
+  border-radius: 1%;
+}
+
+#login-form input {
+font-size: larger;
+height: 40px;
+}
+
+.green-button {
+  background-color: #02CD7D;
+}
+
+.navbar {
+  background-color: white;
+  border: none;
+  height: 60px;
+  padding: auto;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #555;
+    background-color: white;
+}
+
+.margin-bottom-no {
+  margin-bottom: 0;
+}
